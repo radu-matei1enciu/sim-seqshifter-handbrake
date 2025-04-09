@@ -10,7 +10,7 @@ An Arduino-based sequential shifter and handbrake controller for PC racing simul
   - Handbrake mechanism
   - 3 Buttons, and 6 wires.
 
-For the mechanism, get creative! Either use 3d printed pieces or whatever you can find around your house. This is what I did:
+For the mechanism, get creative! Either use 3d printed pieces or whatever you can find around your house.
 ![image](https://github.com/user-attachments/assets/08c0e985-2675-4bed-846b-8a06467a9cf2)
 
 In this setup, the wooden plates press the buttons when I pull or push the metal handles.
